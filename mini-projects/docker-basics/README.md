@@ -8,3 +8,4 @@
 - Expose port 5000
 
 ## 🚀 Run it
+<img width="702" height="174" alt="Screenshot from 2025-12-23 17-33-17" src="https://github.com/user-attachments/assets/96026dc7-4ea4-469e-bbd6-851920988639" />
