@@ -1,0 +1,15 @@
+
+#OS
+.DS
+#IDE
+.vscode/
+*.swp
+#Terraform
+.terraform/
+*.tfstate*
+#Dependencies
+node_modules/
+__pycache__/
+venv/
+#Logs
+*.log
