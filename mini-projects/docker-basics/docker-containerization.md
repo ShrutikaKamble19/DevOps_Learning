@@ -7,10 +7,7 @@
 - Port mapping and networking
 
 ## 🏗️ Architecture Diagram
-
 <img width="5400" height="2700" alt="Apple-style_Docker_Flask_architecture__multi-stage_build_flow_with_metrics" src="https://github.com/user-attachments/assets/9b926c92-e82b-4d0f-bcc0-5c3b2f6d4b57" />
-
-
 Local Dev → docker-compose.yml → Multi-stage Dockerfile
 ↓
 [Builder Stage: pip install] → [Runtime: python:3.9-slim] → Flask App:5000
