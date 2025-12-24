@@ -72,5 +72,4 @@ docker system prune -a # Full cleanup
 3. Deploy to AWS ECS/EKS
 
 **Time to complete**: 2 hours | **Portfolio ready**: ✅
-EOF
 
